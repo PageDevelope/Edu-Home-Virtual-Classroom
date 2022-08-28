@@ -1,6 +1,6 @@
 # Edu-Home-Virtual-Classroom
 
-
+<img src="https://i.ibb.co/NjLSv8x/lohedu-removebg-preview.png height="150px" width="250px" alt=”site’s logo”>
 SYNOPSIS
 
 Domain: 
